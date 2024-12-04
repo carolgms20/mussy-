@@ -77,6 +77,7 @@ Em actions, start o Apache e o MySQL, quando ambos ficarem marcados com a cor ve
 ![3](https://github.com/user-attachments/assets/a50beb44-c454-4da7-8048-da07c92f6625)
 
 4. Clicar em admin no MySQL e ir para o phpMyadmin;
+   
 
 5-Crie o Banco de Dados;
 
