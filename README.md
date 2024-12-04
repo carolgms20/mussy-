@@ -64,17 +64,14 @@ Para executar o projeto localmente, siga os passos abaixo:
 Copiando o projeto para a pasta XAMPP
 
 1. Após baixar e extrair o arquivo zip, acesse a pasta xampp localizada no Disco Local de Download (ex: Disco Local(c:);
-![1](https://github.com/user-attachments/assets/4d2e86fc-bf07-4bdc-8236-c531b8c25b4c)
 
 2. Salvar todo o arquivo zip do projeto dentro da pasta xampp, assim irá conseguir acessar pelo localhost.
-![2](https://github.com/user-attachments/assets/df08e222-54bf-4533-a96f-4399a40de0c2)
 
 #Ativando  o Apache e o MySQL#
 
 3. Execute o aplicativo XAMPP:
    
 Em actions, start o Apache e o MySQL, quando ambos ficarem marcados com a cor verde, significa que está rodando normalmente;
-![3](https://github.com/user-attachments/assets/a50beb44-c454-4da7-8048-da07c92f6625)
 
 4. Clicar em admin no MySQL e ir para o phpMyadmin;
    
